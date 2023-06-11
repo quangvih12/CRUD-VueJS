@@ -1,0 +1,88 @@
+{
+  "catergory": [
+    {
+      "id": 1,
+      "image": "./img/item2.jpg",
+      "name": "Bags",
+      "description": "Dasy Bag Sonia by Sonia Rykiel",
+      "price": 2999000
+    },
+    {
+      "id": 2,
+      "image": "./img/item1.jpg",
+      "name": "Bags",
+      "description": "Dasy Bag Sonia by Sonia Rykiel",
+      "price": 2999000
+    },
+    {
+      "id": 3,
+      "image": "./img/item2.jpg",
+      "name": "Bags",
+      "description": "Dasy Bag Sonia by Sonia Rykiel",
+      "price": 2999000
+    },
+    {
+      "id": 4,
+      "image": "./img/item1.jpg",
+      "name": "Bags",
+      "description": "Dasy Bag Sonia by Sonia Rykiel",
+      "price": 2999000
+    },
+    {
+      "id": 5,
+      "image": "./img/item1.jpg",
+      "name": "Bags",
+      "description": "Dasy Bag Sonia by Sonia Rykiel",
+      "price": 2999000
+    },
+    {
+      "id": 6,
+      "image": "./img/item1.jpg",
+      "name": "Bags",
+      "description": "Dasy Bag Sonia by Sonia Rykiel",
+      "price": 2999000
+    },
+    {
+      "id": 7,
+      "image": "./img/item1.jpg",
+      "name": "Bags",
+      "description": "Dasy Bag Sonia by Sonia Rykiel",
+      "price": 2999000
+    },
+    {
+      "id": 8,
+      "name": "Bags",
+      "image": "./img/balo2.jpg",
+      "price": 2999000,
+      "description": "Dasy Bag Sonia by Sonia Rykiel",
+      "mauSac": "màu đen"
+    },
+    {
+      "id": 9,
+      "image": "./img/item1.jpg",
+      "name": "Bags",
+      "description": "Dasy Bag Sonia by Sonia Rykiel",
+      "price": 2999000
+    },
+    {
+      "id": 10,
+      "image": "./img/item1.jpg",
+      "name": "Bags",
+      "description": "Dasy Bag Sonia by Sonia Rykiel",
+      "price": 2999000
+    },
+    {
+      "id": 11,
+      "image": "./img/item1.jpg",
+      "name": "Bags",
+      "description": "Dasy Bag Sonia by Sonia Rykiel",
+      "price": 2999000
+    },
+    {
+      "name": "Nguyễn Quang Vinh",
+      "description": "qqq",
+      "id": 12,
+      "price": 22
+    }
+  ]
+}
