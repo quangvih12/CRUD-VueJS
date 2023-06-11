@@ -51,19 +51,19 @@
             <!-- <img v-if="product.image" :src="`https://primefaces.org/cdn/primevue/images/product/${catergory.image}`" :alt="catergory.image" class="block m-auto pb-3" /> -->
             <div class="field">
                 <label for="name">Name</label>
-                <InputText id="name"  required="true" autofocus />
-                <small class="p-error" v-if="submitted && !catergory.name">Name is required.</small>
+                <InputText id="name" v-model="neItems.name" required="true" autofocus />
+                <small class="p-error"  v-if="submitted && !neItems.name">Name is required.</small>
             </div>
             <div class="field">
                 <label for="description">Description</label>
-                <Textarea id="description"  required="true" rows="3" cols="20" />
+                <Textarea id="description" v-model="neItems.description"  required="true" rows="3" cols="20" />
             </div>
 
       
             <div class="formgrid grid">
                 <div class="field col">
                     <label for="price">Price</label>
-                    <InputNumber id="price" v-model="catergory.price" mode="currency" currency="USD" locale="en-US" />
+                    <InputNumber id="price" v-model="neItems.price" mode="currency" currency="USD" locale="en-US" />
                 </div>
             </div>
             <template #footer>
